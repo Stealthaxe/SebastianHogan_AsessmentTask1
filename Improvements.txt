@@ -1,0 +1,2 @@
+I think my movement script is quite efficient
+An Improvement I would like to implement would be to have the camera follow the player so that the camera is always facing the same direction as the player.
